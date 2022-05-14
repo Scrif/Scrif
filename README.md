@@ -1,7 +1,9 @@
 # Hey everyone 👋
 
 <div align="justify">
-  My name is Austin and I'm an industrial engineer by training. I'm currently a product manager for risk-mitigation equipment in the commercial building environment. I'm also working on my full-stack web development skills. I have a passion for good product design, embedded systems, and data analytics.
+  My name is Austin and I'm an industrial engineer by training. I'm currently a product manager for risk-mitigation equipment in the commercial building environment. I have a passion for good product design, embedded systems, and data analytics. 
+
+I'm currently working on my full-stack web development skills. 
 </div>
 
 # Tech, Tools, & Languages
@@ -80,6 +82,7 @@
       />
       <br /><strong>Python</strong>
     </td>    
+    
 <!--
 **Scrif/Scrif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
