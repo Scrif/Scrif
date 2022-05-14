@@ -3,7 +3,7 @@
 <div align="justify">
   My name is Austin and I'm an industrial engineer by training. I'm currently a product manager for risk-mitigation equipment in the commercial building environment. I have a passion for good product design, embedded systems, and data analytics. 
 
-I'm currently working on my full-stack web development skills. 
+I'm currently learning full-stack web development through The Odin Project and MDN. 
 </div>
 
 # Tech, Tools, & Languages
