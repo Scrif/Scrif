@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey everyone 👋
 
 <div align="justify">
   My name is Austin and I'm an industrial engineer. I'm a product manager for risk-management equipment in the commercial building environment. I'm also working on my full-stack web development skills. I have a passion for good product design, embedded systems, and data analytics.
