@@ -78,7 +78,7 @@
         height="48"
         alt="Npm"
       />
-      <br /><strong>Npm</strong>
+      <br /><strong>Python</strong>
     </td>    
 <!--
 **Scrif/Scrif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
