@@ -1,7 +1,7 @@
 # Hey everyone 👋
 
 <div align="justify">
-  My name is Austin and I'm an industrial engineer by training. I have a passion for great product design, embedded systems, and data analytics. 
+  I'm an industrial engineer by training. I have a passion for great product design, embedded systems, and data analytics. 
 
 I'm currently learning full-stack web development through The Odin Project and MDN. 
 </div>
