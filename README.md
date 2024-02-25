@@ -1,9 +1,9 @@
 # Hey everyone 👋
 
 <div align="justify">
-  I'm an industrial engineer by training. I have a passion for great product design, embedded systems, and data analytics. 
+  I'm a product manager with a background in engineering. I have a passion for great design, machine learning, embedded systems, and data analytics. 
 
-I'm currently learning full-stack web development through The Odin Project and MDN. 
+I spend most of my time in Python and C++, but I'm also very comfortable with HTML/CSS/JS. 
 </div>
 
 # Tech, Tools, & Languages
