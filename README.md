@@ -3,7 +3,7 @@
 <div align="justify">
   I'm a product manager with a background in engineering. I have a passion for great design, machine learning, embedded systems, and data analytics. 
 
-I spend most of my time in Python and C++, but I'm also very comfortable with HTML/CSS/JS. 
+I spend most of my time in Python, but I'm also very comfortable with HTML/CSS/JS. 
 </div>
 
 # Tech, Tools, & Languages
