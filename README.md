@@ -1,9 +1,7 @@
 # Hey everyone 👋
 
 <div align="justify">
-  I'm a product manager with a background in engineering. I have a passion for great design, machine learning, embedded systems, and data analytics. 
-
-I spend most of my time in Python, but I'm also very comfortable with HTML/CSS/JS. 
+  I'm a product manager with a background in engineering. I'm interested in hardware projects, machine learning, embedded systems, and data analytics. 
 </div>
 
 # Tech, Tools, & Languages
