@@ -1,7 +1,7 @@
-# Hey everyone 👋
+# Hi there 👋
 
 <div align="justify">
-  I'm a product manager with an engineering background. I'm interested in hardware projects, machine learning, embedded systems, and data analytics. 
+  I'm a product manager with an engineering background - I've spent the last 8 years building hardware and software products after a degree in Engineering Management. I'm interested in hardware projects, machine learning, embedded systems, and data analytics. I'm currently working on a custom-designed espresso machine - designing the hardware and the software from the ground up. Ask me how it's going!
 </div>
 
 # Tech, Tools, & Languages
