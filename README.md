@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="left">
-  I'm a product manager with an engineering background, and my career has been spent building hardware and software products for a variety of industries. I'm interested in hardware projects, machine learning, embedded systems, and data analytics. I'm currently working on a custom-designed espresso machine - designing the hardware and the software from the ground up. Ask me how it's going!
+  I'm a product manager with an engineering background, and I've spent my career building hardware and software products for a variety of industries. I'm interested in hardware projects, machine learning, embedded systems, and data analytics. I'm currently working on a custom-designed espresso machine - designing the hardware and the software from the ground up. Ask me how it's going!
 </div>
 
 # Tech, Tools, & Languages
